@@ -1,6 +1,7 @@
 This project develops an AI-ML powered system to forecast prices of agri-horticultural commodities and recommend suitable crops based on environmental and market factors.
 
 The system leverages machine learning and deep learning models to analyze historical prices, weather data, soil conditions, and supply-demand trends to provide accurate price forecasts and actionable insights for farmers, traders, and policymakers.
+
 References
 
 Machine Learning Approaches for Agricultural Price Prediction (IJARCCE, 2021)
