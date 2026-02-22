@@ -11,3 +11,5 @@ Forecasting Agricultural Commodity Prices (Springer, 2022)
 Agro-Commodity Price Prediction Using Neural Networks (IEEE, 2021)
 
 Application of AI in Predicting Agricultural Prices (Agricultural Systems, 2023)
+
+This project is for academic and research purposes.
